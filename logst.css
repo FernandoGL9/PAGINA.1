@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    background-color: #78ffd7;
+}
+.box{
+    width: 400px;
+    height: auto;
+    background-color: rgba(0, 0, 0, 0.185);
+    margin: auto;
+    margin-top: 100px;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 32px;
+    box-shadow: 20px 8px 38px 19px rgba(0, 0, 0, 0.356);
+}
+h2{
+    color: rgba(0, 0, 0, 0.678);
+    margin-bottom: 70px;
+    margin-top: 70px;
+}
+.emo{
+    margin-bottom: 90px;
+}
+.hol{
+    color:  rgba(0, 0, 0, 0.596);
+    background-color: rgba(255, 253, 253, 0.233);;
+    font-size: 19px;
+    width: 160px;
+    border-radius: 10px;
+    border: none;
+    border-right: 4px solid rgba(0, 0, 0, 0.555);
+    border-bottom: 4px solid  rgba(0, 0, 0, 0.555);
+}
